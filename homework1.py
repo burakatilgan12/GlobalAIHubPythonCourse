@@ -4,6 +4,7 @@ liste = tekListe + ciftListe
 bolunmusListe = []
 for number in liste:
     bolunmusListe.append(number / 2)
+    print(bolunmusListe)
     tipListe = [type(number) for number in bolunmusListe]
     print(tipListe)
 
