@@ -7,9 +7,7 @@ for number in liste:
     print(bolunmusListe)
     tipListe = [type(number) for number in bolunmusListe]
     print(tipListe)
-
-#İlk defa kod yazdım, çok hoşuma gitti. Teşekkürler öğrettiğiniz için :^)
-
+#incelediğiniz için teşekkürler :^)
 print("""\
     _-`````-,           ,- '- .
   .'   .- - |          | - -.  `.
